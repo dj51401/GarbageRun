@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d5f24ce53a9cc64c8678e1b3e421372, type: 3}
+  m_Name: BlackTrashBag
+  m_EditorClassIdentifier: 
+  pointValue: 10
+  slowDownSpeed: 0.9
+  trashWeight: 1.5
+  trashDrag: 3
